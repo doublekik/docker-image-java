@@ -1,0 +1,13 @@
+{
+    "gitlens.codeLens.scopes": [
+        "document",
+        "containers",
+        "blocks"
+    ],
+    "diffEditor.codeLens": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.referencesCodeLens.showOnAllFunctions": true,
+    "javascript.referencesCodeLens.enabled": true,
+    "merge-conflict.codeLens.enabled": true,
+    "javascript.referencesCodeLens.showOnAllFunctions": true
+}
